@@ -5,6 +5,7 @@ Loading dataset from proje_dataset2.csv
 Displaying first and last 5 rows
 Listing column names and data types
 Computing basic statistics
+
 Task 2: Data Cleaning
 
 Detecting and counting missing values
